@@ -1,0 +1,33 @@
+{
+  "name": "precompile-swig-loader",
+  "version": "0.5.0",
+  "description": "Swig template loader module for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmdmark/precompile-swig-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "swig",
+    "build"
+  ],
+  "author": "Mark Johnson <@wmdmark>",
+  "license": "MIT",
+  "peerDependencies": {
+    "swig": "^1.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "jsdom": "^7.0.2",
+    "mocha": "^1.21.4",
+    "object-assign": "^4.0.1",
+    "rimraf": "^2.4.3",
+    "swig": "^1.4.2",
+    "webpack": "^1.12.2"
+  }
+}
