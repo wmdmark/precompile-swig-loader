@@ -51,7 +51,7 @@ Thanks
 [Swig]: http://paularmstrong.github.io/swig/
 [webpack]: http://webpack.github.io/
 
-**precompile-swig-loader** © 2015+, Rico Sta. Cruz. Released under the [MIT] License.<br>
+**precompile-swig-loader** © 2015+, Mark Johnson. Released under the [MIT] License.<br>
 Authored and maintained by Mark Johnson.
 
 > GitHub [@wmdmark](https://github.com/wmdmark) &nbsp;&middot;&nbsp;
